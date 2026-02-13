@@ -27,7 +27,7 @@ document.querySelector('#app').innerHTML = `
       <div class="icon-wrap">
         <span style="font-size:1.2rem;">❤️</span>
       </div>
-      <span>CYROSE's Archive</span>
+      <span>TO CYROSE</span>
     </div>
     <div class="header-nav">
       <button class="music-btn" id="music-toggle">
