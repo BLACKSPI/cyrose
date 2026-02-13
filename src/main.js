@@ -27,7 +27,7 @@ document.querySelector('#app').innerHTML = `
       <div class="icon-wrap">
         <span style="font-size:1.2rem;">❤️</span>
       </div>
-      <span>The Archive of Us</span>
+      <span>CYROSE's Archive</span>
     </div>
     <div class="header-nav">
       <button class="music-btn" id="music-toggle">
@@ -62,7 +62,7 @@ document.querySelector('#app').innerHTML = `
         <p class="hero-subtitle">Our Story. Part One.</p>
         <h1 class="hero-heading">
           From the Moment <br>
-          <span class="highlight">I Found You</span>, <br>
+          <span class="highlight">I Found YOU CYROSE</span>, <br>
           Everything Changed ❤️
         </h1>
       </div>
